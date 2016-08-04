@@ -1,0 +1,59 @@
+_repo: Mark-Twain-s-Speeches_3188
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2004-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3188'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Speeches, addresses, etc., American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The story of a speech -- Plymouth Rock and the Pilgrims -- Compliments
+  and degrees -- Books, authors, and hats -- Dedication speech -- Die Schrecken der
+  deutschen Sprache -- The horrors of the German language -- German for the Hungarians
+  -- A new German word -- Unconscious plagiarism -- The weather -- The babies -- Our
+  children and great discoveries -- Educating theatre-goers -- The educational theatre
+  -- Poets as policemen -- Pudd'nhead Wilson dramatized -- Daly Theatre -- The dress
+  of civilized woman -- Dress reform and copyright -- College girls -- Girls -- The
+  ladies -- Woman's press club -- Votes for women -- Woman, an opinion -- Advice to
+  girls -- Taxes and morals -- Tammany and Croker -- Municipal corruption -- Municipal
+  government -- China and the Philippines -- Theoretical morals -- Layman's sermon
+  -- University Settlement Society -- Public Education Association -- Education and
+  citizenship -- Courage -- The dinner to Mr. Choate -- On Stanley and Livingstone
+  -- Henry M. Stanley -- Dinner to Mr. Jerome -- Henry Irving -- Dinner to Hamilton
+  W. Mabie -- Introducing Nye and Riley -- Dinner to Whitelaw Reid -- Rogers and railroads
+  -- The old-fashioned printer -- Society of American Authors -- Reading-room opening
+  -- Literature -- Disappearance of literature -- The New York Press Club dinner --
+  The alphabet and simplified spelling -- Spelling and pictures -- Books and burglars
+  -- Authors' Club -- Booksellers -- "Mark Twain's first appearance" -- Morals and
+  memory -- Queen Victoria -- Joan of Arc -- Accident insurance, etc. -- Osteopathy
+  -- Water-supply -- Mistaken identity -- Cats and candy -- Obituary poetry -- Cigars
+  and tobacco -- Billiards -- The Union right or wrong -- An ideal French address
+  -- Statistics -- Galveston orphan bazaar -- San Francisco earthquake -- Charity
+  and actors -- Russian republic -- Russian sufferers -- Watterson and Twain as rebels
+  -- Robert Fulton fund -- Fulton Day, Jamestown -- Lotos Club dinner in honor of
+  Mark Twain -- Copyright -- In aid of the blind -- Dr. Mark Twain, farmeopath --
+  Missouri University speech -- Business -- Carnegie the benefactor -- On poetry,
+  veracity, and suicide -- Welcome home -- An undelivered speech -- Sixty-seventh
+  birthday -- To the Whitefriars -- The Ascot gold cup -- The Savage Club dinner --
+  General Miles and the dog -- When in doubt, tell the truth -- The day we celebrate
+  -- Independence day -- Americans and the English -- About London -- Princeton --
+  The St. Louis harbor-boat "Mark Twain" -- Seventieth birthday.
+title: Mark Twain's Speeches
+url: http://www.gutenberg.org/ebooks/3188
